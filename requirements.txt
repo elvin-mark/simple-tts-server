@@ -1,0 +1,7 @@
+numpy
+fastapi
+onnxruntime
+spacy
+num2words
+misaki
+scipy
